@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Julian 👋
 
-<!--
-**jchultarsky/jchultarsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Principal Solutions Architect specializing in enterprise AI integration — connecting large language models to real business systems through the Model Context Protocol (MCP). This is my personal account, home to my open-source work, which lives mostly in **Rust**.
 
-Here are some ideas to get you started:
+**Projects:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🦀 [clap-layers](https://github.com/jchultarsky/clap-layers) — correct layered configuration for clap: explicit CLI flag > env var > config file > default, from one struct
+
+More open-source projects are on the way — watch this space.
+
+**Elsewhere:**
+
+- 💼 Work-related projects at [@jchultarsky101](https://github.com/jchultarsky101) — the PCLI ecosystem for the Physna 3D geometry search API
+- 🌍 [chultarsky.com](https://chultarsky.com)
+- ✍️ I write about enterprise AI, Kubernetes strategy, and IT architecture on [LinkedIn](https://www.linkedin.com/in/julianchultarsky/)
